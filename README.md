@@ -7,6 +7,7 @@
 - [Configuration Guides](#configuration-guides)
 - [Tools](#tools)
 - [Standards / Protocols](#standards--protocols)
+- [Libraries / Clients](#libraries--clients)
 
 ## Configuration Guides
 
