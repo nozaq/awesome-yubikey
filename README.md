@@ -39,6 +39,13 @@ List of standards / protocols Yubikey implements.
 - [TOTP: Time-Based One-Time Password Algorithm](https://tools.ietf.org/html/rfc6238)
 - [WebAuthn](https://webauthn.io/)
 
+## Libraries / Clients
+
+- [python-yubico-client](https://github.com/Kami/python-yubico-client) - Python library for validating Yubico Yubikey One Time Passwords (OTPs) based on the validation protocol version 2.0.
+- [yubico-java-client](https://github.com/Yubico/yubico-java-client) - https://github.com/Yubico/yubico-java-client
+- [yubico-rs](https://github.com/wisespace-io/yubico-rs) - Yubikey client API library, Challenge-Response & Configuration
+- [yubigo](https://github.com/GeertJohan/yubigo) - Yubigo is a Yubikey client API library that provides an easy way to integrate the Yubico Yubikey into your existing Go-based user authentication infrastructure.
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
