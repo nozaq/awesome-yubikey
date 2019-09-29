@@ -45,6 +45,8 @@ List of standards / protocols Yubikey implements.
 - [python-yubico-client](https://github.com/Kami/python-yubico-client) - Python library for validating Yubico Yubikey One Time Passwords (OTPs) based on the validation protocol version 2.0.
 - [yubico-java-client](https://github.com/Yubico/yubico-java-client) - https://github.com/Yubico/yubico-java-client
 - [yubico-rs](https://github.com/wisespace-io/yubico-rs) - Yubikey client API library, Challenge-Response & Configuration
+- [yubikit-android](https://github.com/YubicoLabs/yubikit-android) - Yubico Mobile Android SDK - YubiKit
+- [yubikit-ios](https://github.com/Yubico/yubikit-ios) - Yubico Mobile iOS SDK - YubiKit
 - [yubigo](https://github.com/GeertJohan/yubigo) - Yubigo is a Yubikey client API library that provides an easy way to integrate the Yubico Yubikey into your existing Go-based user authentication infrastructure.
 
 ## Contribute
