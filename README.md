@@ -15,6 +15,7 @@ List of guides / documents help setting up Yubikey.
 
 - [YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
 - [YubiKey - ArchWiki](https://wiki.archlinux.org/index.php/Yubikey)
+- [YubiKey at Datadog](https://github.com/DataDog/yubikey)
 - [ubuntu-yubikey-setup](https://github.com/carniz/ubuntu-yubikey-setup) - A guide for setting up Yubikey support on an Ubuntu 18.04-based distribution (such as elementaryOS 5.0 "Juno") 
 
 ## Tools
