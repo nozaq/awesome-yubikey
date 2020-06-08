@@ -23,6 +23,7 @@ List of guides / documents help setting up Yubikey.
 List of tools to use with Yubikey.
 
 - [Purse](https://github.com/drduh/Purse) - GPG asymmetric (YubiKey) password manager
+- [rage](https://github.com/str4d/rage) - A simple, secure and modern encryption tool with small explicit keys, no config options, and UNIX-style composability.
 - [Yubico Authenticator](https://developers.yubico.com/yubioath-desktop/) - Cross-platform application for generating Open Authentication (OATH) time-based TOTP and event-based HOTP one-time password codes, with the help of a YubiKey that protects the shared secrets.
 - [YubiKey Manager CLI](https://developers.yubico.com/yubikey-manager/) - Python library and command line tool for configuring a YubiKey.
 - [yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys. 
