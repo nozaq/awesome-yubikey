@@ -25,6 +25,7 @@ List of tools to use with Yubikey.
 - [Purse](https://github.com/drduh/Purse) - GPG asymmetric (YubiKey) password manager
 - [Yubico Authenticator](https://developers.yubico.com/yubioath-desktop/) - Cross-platform application for generating Open Authentication (OATH) time-based TOTP and event-based HOTP one-time password codes, with the help of a YubiKey that protects the shared secrets.
 - [YubiKey Manager CLI](https://developers.yubico.com/yubikey-manager/) - Python library and command line tool for configuring a YubiKey.
+- [yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys. 
 - [yubikey-luks](https://github.com/cornelinux/yubikey-luks) - Two factor authentication for harddisk encryption
 - [yubico-pam](https://github.com/Yubico/yubico-pam) - The Yubico PAM module provides an easy way to integrate the YubiKey into your existing user authentication infrastructure. PAM is used by GNU/Linux, Solaris and Mac OS X for user authentication, and by other specialized applications such as NCSA MyProxy.
 
