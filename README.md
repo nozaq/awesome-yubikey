@@ -23,11 +23,16 @@ List of guides / documents help setting up Yubikey.
 
 List of tools to use with Yubikey.
 
+### Official Tools
+
+- [Yubico Authenticator](https://www.yubico.com/products/yubico-authenticator/)([GitHub Repo](https://github.com/Yubico/yubioath-flutter)) - Cross-platform application for generating Open Authentication (OATH) time-based TOTP and event-based HOTP one-time password codes, with the help of a YubiKey that protects the shared secrets.
+- [YubiKey Manager CLI](https://developers.yubico.com/yubikey-manager/) - Python library and command line tool for configuring a YubiKey.
+
+### Third-party Tools
+
 - [awsu](https://github.com/kreuzwerker/awsu) - Enhanced account switching for AWS, supports Yubikey as MFA source.
 - [Purse](https://github.com/drduh/Purse) - GPG asymmetric (YubiKey) password manager
 - [rage](https://github.com/str4d/rage) - A simple, secure and modern encryption tool with small explicit keys, no config options, and UNIX-style composability.
-- [Yubico Authenticator](https://developers.yubico.com/yubioath-desktop/) - Cross-platform application for generating Open Authentication (OATH) time-based TOTP and event-based HOTP one-time password codes, with the help of a YubiKey that protects the shared secrets.
-- [YubiKey Manager CLI](https://developers.yubico.com/yubikey-manager/) - Python library and command line tool for configuring a YubiKey.
 - [yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
 - [yubikey-luks](https://github.com/cornelinux/yubikey-luks) - Two factor authentication for harddisk encryption.
 - [yubikey-touch-detector](https://github.com/maximbaz/yubikey-touch-detector) - A tool to detect when your YubiKey is waiting for a touch (to send notification or display a visual indicator on the screen).
