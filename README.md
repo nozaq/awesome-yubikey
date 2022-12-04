@@ -26,7 +26,7 @@ List of tools to use with Yubikey.
 ### Official Tools
 
 - [Yubico Authenticator](https://www.yubico.com/products/yubico-authenticator/)([GitHub Repo](https://github.com/Yubico/yubioath-flutter)) - Cross-platform application for generating Open Authentication (OATH) time-based TOTP and event-based HOTP one-time password codes, with the help of a YubiKey that protects the shared secrets.
-- [YubiKey Manager CLI](https://developers.yubico.com/yubikey-manager/) - Python library and command line tool for configuring a YubiKey.
+- [YubiKey Manager](https://developers.yubico.com/yubikey-manager/) - Python library and command line tool for configuring a YubiKey.
 
 ### Third-party Tools
 
