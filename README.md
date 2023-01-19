@@ -38,6 +38,7 @@ List of tools to use with Yubikey.
 - [yubikey-touch-detector](https://github.com/maximbaz/yubikey-touch-detector) - A tool to detect when your YubiKey is waiting for a touch (to send notification or display a visual indicator on the screen).
 - [yubico-pam](https://github.com/Yubico/yubico-pam) - The Yubico PAM module provides an easy way to integrate the YubiKey into your existing user authentication infrastructure. PAM is used by GNU/Linux, Solaris and Mac OS X for user authentication, and by other specialized applications such as NCSA MyProxy.
 - [yubikeylockd](https://github.com/shtirlic/yubikeylockd) - Simple daemon for locking and unlocking macOS with Yubikey
+- [yubikey-provisioning-scripts](https://github.com/santiago-mooser/yubikey-provisioning-scripts) -  A set of scripts based on [drduh's Yubikey guide](https://github.com/drduh/YubiKey-Guide) to automatically provision your yubikey. Supports Linux and MacOS.
 
 ## Standards / Protocols
 
