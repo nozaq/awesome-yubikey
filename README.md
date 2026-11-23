@@ -37,6 +37,7 @@ List of tools to use with Yubikey.
 - [Purse](https://github.com/drduh/Purse) - GPG asymmetric (YubiKey) password manager
 - [putty-cac](https://github.com/NoMoreFood/putty-cac) - Windows SSH client based on PuTTY with support for smart cards, certificates and FIDO keys.
 - [rage](https://github.com/str4d/rage) - A simple, secure and modern encryption tool with small explicit keys, no config options, and UNIX-style composability.
+- [Wardterm](https://wardterm.com/docs/security-keys/) - SSH and SFTP client that creates SSH keys on FIDO2 security keys such as a YubiKey and signs in with a touch on the Mac; also on Windows, Linux, iPhone, iPad and Android.
 - [WinCryptSSHAgent](https://github.com/buptczq/WinCryptSSHAgent) - SSH agent for Windows that authenticates with a YubiKey via CryptoAPI, no extra smart card driver required.
 - [yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
 - [yubikey-full-disk-encryption](https://github.com/agherzan/yubikey-full-disk-encryption) - Use the YubiKey HMAC-SHA1 Challenge-Response mode to unlock a LUKS partition.
